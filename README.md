@@ -29,6 +29,6 @@ Projeto de desenvolvimento de sistema de Dropshipping.
 ![](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-rocket-48.png) [Nickolas-Davi](https://github.com/niickol4s) 
 ![](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-samurai-67.png) [André-Casimiro](https://github.com/Andre-nemesis)  
 
-<span style="color:purple">Esta palavra está em azul</span>
+<span style="color🟣">Esta palavra está em azul</span>
 
 
