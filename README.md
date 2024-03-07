@@ -26,5 +26,6 @@ Projeto de desenvolvimento de sistema de Dropshipping.
 
 
 # Criadores
-[André-Casimiro](https://github.com/Andre-nemesis)
-[Nickolas-Davi](https://github.com/niickol4s)
+[![André-Casimiro](https://icons8.com/icon/k54TXBViMvmF/samurai)](https://github.com/Andre-nemesis)
+[![Nickolas-Davi](https://icons8.com/icon/15175/rocket)](https://github.com/niickol4s)
+
