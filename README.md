@@ -26,6 +26,6 @@ Projeto de desenvolvimento de sistema de Dropshipping.
 
 
 # Criadores
-[[![André-Casimiro]([https://icons8.com/icon/k54TXBViMvmF/samurai](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-samurai-67.png))](https://github.com/Andre-nemesis)]
-[[![Nickolas-Davi]([https://icons8.com/icon/15175/rocket](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-rocket-48.png)https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-rocket-48.png)](https://github.com/niickol4s)]
+[![Nickolas-Davi](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-rocket-48.png)](https://github.com/niickol4s)
+[![André-Casimiro](https://github.com/Andre-nemesis/TRABALHOJUSSARA/blob/main/icons8-samurai-67.png)](https://github.com/Andre-nemesis)
 
